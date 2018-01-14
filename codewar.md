@@ -14,7 +14,7 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 
 ## 題目列表
 
-### [ ] Number-Star ladder
+* [ ] Number-Star ladder
 題目連結：https://www.codewars.com/kata/number-star-ladder/javascript  
 作業難度：★  
 題目說明：
