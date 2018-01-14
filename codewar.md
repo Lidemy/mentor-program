@@ -15,24 +15,21 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 ## 題目列表
 
 ### Number-Star ladder
-題目連結：https://www.codewars.com/kata/number-star-ladder/javascript
-作業難度：★
-
-#### 題目說明
+題目連結：https://www.codewars.com/kata/number-star-ladder/javascript  
+作業難度：★  
+題目說明：
 這題就是依照規律輸出文字，沒什麼好講的
 
 ### Build Tower
-題目連結：https://www.codewars.com/kata/build-tower
-作業難度：★
-
-#### 題目說明
+題目連結：https://www.codewars.com/kata/build-tower  
+作業難度：★  
+題目說明：
 也是依照規律輸出文字即可
 
 ### Reversed Strings
-題目連結：https://www.codewars.com/kata/reversed-strings/javascript
-作業難度：★
-
-#### 題目說明
+題目連結：https://www.codewars.com/kata/reversed-strings/javascript  
+作業難度：★  
+題目說明：
 把輸入的文字反轉過後回傳，如果想挑戰自己的話，可以試試看用陣列的各種內建函式組合完成
 
 
