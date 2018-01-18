@@ -2,7 +2,7 @@
 
 
 
-## Cookie 是什麼？該怎麼設定 Cookie 以及取得
+## Cookie 是什麼？在 HTTP 這一層要怎麼設定 Cookie，瀏覽器又會以什麼形式帶去 Server？
 
 
 
