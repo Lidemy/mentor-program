@@ -37,6 +37,14 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 題目說明：
 這題就是依照規律輸出文字，沒什麼好講的
 
+### ❌ Who likes it
+題目連結：https://www.codewars.com/kata/who-likes-it  
+題目說明：模擬 Facebook 按讚時或出現的文字
+
+### ❌ String repeat
+題目連結：https://www.codewars.com/kata/string-repeat/javascript  
+題目說明：回傳重複 n 遍的字串
+
 ### ❌ Build Tower
 題目連結：https://www.codewars.com/kata/build-tower  
 題目說明：
@@ -52,9 +60,9 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 題目說明：
 這一題是進階版的字串反轉，原本的只要把每個「字元」反轉，這個則是要把每個「單字」反轉。
 
-### ❌ String repeat
-題目連結：https://www.codewars.com/kata/string-repeat/javascript  
-題目說明：回傳重複 n 遍的字串
+### ❌ Alternate case
+題目連結：https://www.codewars.com/kata/alternate-case  
+題目說明：把大寫字母轉成小寫，小寫字母轉成大寫
 
 ### ❌ You only need one - Beginner
 題目連結：https://www.codewars.com/kata/you-only-need-one-beginner/javascript  
@@ -63,14 +71,6 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 ### ❌ Find the capitals
 題目連結：https://www.codewars.com/kata/find-the-capitals-1/javascript  
 題目說明：回傳大寫字母所在的 index
-
-### ❌ Alternate case
-題目連結：https://www.codewars.com/kata/alternate-case  
-題目說明：把大寫字母轉成小寫，小寫字母轉成大寫
-
-### ❌ Who likes it
-題目連結：https://www.codewars.com/kata/who-likes-it  
-題目說明：模擬 Facebook 按讚時或出現的文字
 
 ### ❌ Sum arrays
 題目連結：https://www.codewars.com/kata/sum-arrays/javascript  
