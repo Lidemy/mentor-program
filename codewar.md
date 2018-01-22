@@ -98,10 +98,6 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 題目連結：https://www.codewars.com/kata/take-a-ten-minute-walk/javascript  
 題目說明：有一個人他可以往東南西北這四個方向走，請幫他計算它能否剛好在十步的時候回到原點
 
-### ❌ Bit Counting
-題目連結：https://www.codewars.com/kata/bit-counting/javascript  
-題目說明：計算 bit 的總數
-
 ### ❌ Tribonacci Sequence
 題目連結：https://www.codewars.com/kata/tribonacci-sequence/javascript  
 題目說明：費式數列的進階版
