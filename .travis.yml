@@ -4,3 +4,5 @@ node_js:
 cache: yarn
 before_script: 
   - wget $TESTCASE_URL
+notifications:
+  email: false
