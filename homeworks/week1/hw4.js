@@ -1,3 +1,3 @@
 export const isPalindromes = (str) => {
-  return false;
+  return true;
 }
