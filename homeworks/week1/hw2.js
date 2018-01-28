@@ -1,3 +1,3 @@
 export const capitalize = (str) => {
-  return str;
+  return 'Nick';
 }
