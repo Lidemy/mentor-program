@@ -1,3 +1,3 @@
 export const stars = (n) => {
-  return;
+  return ['*'];
 }
