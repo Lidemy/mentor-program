@@ -176,8 +176,8 @@ HTML 的部分就簡單帶過幾個常見的 Tag，帶到 head 的一些屬性�
 - [ ] 知道 jQuery 是做什麼的
 - [ ] 知道 jQuery 與 vanilla js 的差別
 - [ ] 知道如何與自己寫的 API 串接
-- [ ] 知道什麼是 Bootstap
-- [ ] 知道 Bootstap 原理及如何應用
+- [ ] 知道什麼是 Bootstrap
+- [ ] 知道 Bootstrap 原理及如何應用
 - [ ] 知道什麼是網格系統以及如何應用在 RWD
 
 ### 第八週（03/26 ~ 04/01）：後端基礎（下）
