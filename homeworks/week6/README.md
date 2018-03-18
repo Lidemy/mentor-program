@@ -77,3 +77,4 @@ Table 名稱：users_certificate
 3. 請說明 CSRF 的攻擊原理以及防範方法
 4. 請舉出三種不同的雜湊函數
 5. 請去查什麼是 Session，以及 Session 跟 Cookie 的差別
+6. `include`、`require`、`include_once`、`require_once` 的差別

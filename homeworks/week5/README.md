@@ -64,7 +64,7 @@ setcookie("member_id", "001", time()+3600*24);
 如此一來，在會員登入之後，我們就能夠利用 setcookie，把會員的資料存到使用者瀏覽器的 cookie 裡面。而瀏覽器在送出 request 的時候，也會把 cookie 的內容一起帶上來，你可以用 `$_COOKIE[$cookie_name]` 來取得。
 
 ``` php
-if(!isset($_COOKIE["member_id:])) {
+if(!isset($_COOKIE["member_id"])) {
     echo "not login";
 } else {
     echo "member id: " . $_COOKIE["member_id"];

@@ -12,3 +12,4 @@
 
 ## 請去查什麼是 Session，以及 Session 跟 Cookie 的差別
 
+## `include`、`require`、`include_once`、`require_once` 的差別

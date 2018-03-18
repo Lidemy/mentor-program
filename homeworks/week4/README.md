@@ -28,7 +28,7 @@
 
 ## hw3：仿 Twitch 頻道頁面
 
-請串接 [Twitch API](https://dev.twitch.tv/docs)，顯示出 League of Legends 目前正在直播的前 20 個實況。
+請串接 [Twitch API](https://dev.twitch.tv/docs)，顯示出 League of Legends 目前正在直播的前 20 個實況。（Twitch 更新的 API，作業用的是 [Twitch API v5](https://dev.twitch.tv/docs/v5)）
 
 ![](twitch.png)
 
@@ -40,11 +40,9 @@
 
 ## hw4：化繁為簡
 
-每次在操縱 DOM 物件時，都需要輸入`document.querySelector()`，重複幾次之後會覺得有點煩瑣，請你實作出一個簡單的 function 叫做`q`，可以快速的選取到你要的元素。
+每次在操縱 DOM 物件時，都需要輸入`document.querySelector()`，重複幾次之後會覺得有點煩瑣，所以我們可以實作出一個簡單的 function 叫做`q`，可以快速的選取到你要的元素，接著利用選到之後的這個物件進行常見的操作（`hide`跟`show`）
 
-除此之外，也請實作出`hide`跟`show`兩個 function，可以把指定的元素顯示或是隱藏。
-
-可以參考以下範例：
+可以參考以下範例，只要能夠按照以下範例運行即可：
 
 ``` js
 var element = q('.title')
